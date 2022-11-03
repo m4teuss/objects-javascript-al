@@ -1,2 +1,2 @@
-# Objects js
+# JavaScript: Objetos
 

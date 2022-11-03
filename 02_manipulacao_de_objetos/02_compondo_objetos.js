@@ -15,7 +15,6 @@ cliente.dependentes = {
     parentesco: 'filha',
     dataNasc: '20/05/2019'
 }
-
 console.log(cliente)
 
 // alterar nome do dependente

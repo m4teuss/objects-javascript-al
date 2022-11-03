@@ -1,5 +1,0 @@
-Anotações Gerais:
-
-0) Para rodar os exercicios "$ node <nome arquivo>"
-
-1) No JavaScript, vimos que objetos são estruturas de dados compostas por chave e valor, informações que ajudam a representar algo da vida real

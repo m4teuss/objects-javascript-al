@@ -1,8 +1,3 @@
-/*   Desafio acessar uma lista de números de telefone, de cada pessoa cadastrada no sistema do banco,
-     cada cliente e temos que imprimir essa lista, e verificar se há mais de um número no cadastro,
-     ou seja, se o cliente tiver mais de um número temos que imprimir os dois números.
-*/
-
 const cliente = {
     nome: 'Jose',
     idade: '36',
